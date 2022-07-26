@@ -68,6 +68,39 @@
       "dataEntry": "2022-07-26T22:01:40.684Z",
       "total": 17,
       "id": 2
+    },
+    {
+      "client": "Karina Macedo 3",
+      "products": [
+        {
+          "qty": 1,
+          "total": 5,
+          "product": {
+            "id": 1,
+            "name": "Café americano",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+            "type": "Desayuno",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        },
+        {
+          "qty": 1,
+          "total": 7,
+          "product": {
+            "id": 10,
+            "name": "Bebida/gaseosa 500ml",
+            "price": 7,
+            "image": "https://i0.wp.com/tienda.fogo.pe/wp-content/uploads/2021/10/inca-kola-gaseosas-sin-azucar-x-500-ml.png?resize=440%2C440&ssl=1",
+            "type": "Almuerzo y cena",
+            "dateEntry": "2022-06-15 15:14:10"
+          }
+        }
+      ],
+      "status": "pendiente",
+      "dataEntry": "2022-07-26T22:25:44.302Z",
+      "total": 12,
+      "id": 3
     }
   ],
   "products": [
